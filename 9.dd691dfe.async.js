@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[9],{RXBc:function(o,e,n){"use strict";function c(){window.location="/dashboard/"}Object.defineProperty(e,"__esModule",{value:!0}),e.default=c}}]);
